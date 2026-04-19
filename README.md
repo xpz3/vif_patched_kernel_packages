@@ -1,0 +1,1 @@
+# vif_patched_kernel_packages
